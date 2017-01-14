@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Lewis Chess Queen](images/LewisChessQueen.jpg)
+![Lewis Chess Queen](https://github.com/spswanz/spswanz.github.io/blob/master/images/LewisChessQueen.jpg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
