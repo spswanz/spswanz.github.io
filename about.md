@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Beaker!](/images/beaker.jpg)
+![Beaker!](/Users/Sarah/github/si698/spswanz.github.io/images/images/beaker.jpg)
 
 Hm, not able to just use images/myimage.jpg for this. And how to I add an image caption?
 
