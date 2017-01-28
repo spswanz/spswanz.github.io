@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-hr, pre, h1, h2, h3 {
+title, hr, pre, h1, h2, h3 {
   font: 400 16px/1.5 "Copperplate", Helvetica, Arial, sans-serif;
 }
 body {

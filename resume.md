@@ -1,3 +1,8 @@
+---
+layout: page
+title: Curriculum Vitae
+permalink: /CV
+---
 **Sarah P. Swanz**
 
 540 Thompson St., Ste. 3140 spswanz@umich.edu
