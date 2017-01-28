@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-title, hr, pre, h1, h2, h3 {
+title, hr, pre, h1, h2, h3, h4, h5, h6 {
   font: 400 16px/1.5 "Copperplate", Helvetica, Arial, sans-serif;
 }
 body {
@@ -155,7 +155,8 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  font: 400 16px/1.5 "Copperplate", Helvetica, Arial, sans-serif;
+  font-size: 42px;
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
@@ -165,6 +166,7 @@ pre {
     color: #424242; }
 
 .site-nav {
+  font: 400 16px/1.5 "Copperplate", Helvetica, Arial, sans-serif;
   float: right;
   line-height: 56px; }
   .site-nav .menu-icon {
@@ -288,7 +290,7 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 26px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
