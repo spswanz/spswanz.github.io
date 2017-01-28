@@ -25,9 +25,9 @@ title: My Site for HIST 698
 
 # Build settings
 # markdown: kramdown
-# theme: minima
-# gems:
-#   - jekyll-feed
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+theme: starving-artist-jekyll-theme
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
