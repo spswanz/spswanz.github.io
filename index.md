@@ -14,6 +14,8 @@ I'd like the index page not to have the 'layout: home' because that adds RSS fee
 
 How do I change the ordering of links on the nav bar anyway? I have a nav.html in my includes folder but it's empty. Well, I did try and copy from Fred's Github repo, but not successfully. (I did manage to change the footer.html in the includes folder so I know I'm using includes properly).
 
-Yay! Figured out how to add posts to assignments tab instead. 
+Yay! Figured out how to add posts to assignments tab instead.
+
+Formatting of CV page is lousy. Pandoc converted to Markdown okay, but had a lot of layout formatting that is lost.
 
 What do I want on my home page anyway?
