@@ -8,10 +8,12 @@ blah blah blah
 
 ### Things to fix -
 
-I'd like the index page not to have the 'layout: home' because that adds RSS feed I don't want. It adds link to posts, which I need for now until I can set that up as separate assignments tab, which I don't know how to do.
+Btw, I do not find the Jekyll documentation particularly useful. It expects too much pre-understanding that I don't have.
 
-How to get I get posts to show up on the 698 assignments page instead?
+I'd like the index page not to have the 'layout: home' because that adds RSS feed I don't want, but hesitate to change.
 
-Want nav bar / TOC in body of index page, rather than on top.
+How do I change the ordering of links on the nav bar anyway? I have a nav.html in my includes folder but it's empty. Well, I did try and copy from Fred's Github repo, but not successfully. (I did manage to change the footer.html in the includes folder so I know I'm using includes properly).
 
-How do I change nav bar anyway? I have a nav.html in my includes folder but I don't know what it does.  (I did manage to change the footer.html in the includes folder).
+Yay! Figured out how to add posts to assignments tab instead. Except why is it not loading my third post? It's named properly and in posts folder.
+
+What do I want on my home page anyway?
