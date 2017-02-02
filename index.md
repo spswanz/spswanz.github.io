@@ -17,5 +17,7 @@ How do I change the ordering of links on the nav bar anyway? I have a nav.html i
 Yay! Figured out how to add posts to assignments tab instead.
 
 Formatting of CV page is lousy. Pandoc converted to Markdown okay, but had a lot of layout formatting that is lost.
+Can you mix and match themes? Eg, I found a resume builder theme, but only need that for one page.
 
 What do I want on my home page anyway?
+Btw, do you know why AKK left Midd?
