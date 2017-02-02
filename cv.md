@@ -1,6 +1,12 @@
-**Sarah P. Swanz**
+---
+layout: page
+title: Curriculum Vitae
+permalink: /CV
+---
 
-> [contact info]
+**Actually a resume
+
+> [contact info removed]
 >
 
 **Education**
