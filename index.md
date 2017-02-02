@@ -14,6 +14,6 @@ I'd like the index page not to have the 'layout: home' because that adds RSS fee
 
 How do I change the ordering of links on the nav bar anyway? I have a nav.html in my includes folder but it's empty. Well, I did try and copy from Fred's Github repo, but not successfully. (I did manage to change the footer.html in the includes folder so I know I'm using includes properly).
 
-Yay! Figured out how to add posts to assignments tab instead. Except why is it not loading my third post? It's named properly and in posts folder.
+Yay! Figured out how to add posts to assignments tab instead. 
 
 What do I want on my home page anyway?
