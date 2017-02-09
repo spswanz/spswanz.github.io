@@ -1,6 +1,10 @@
 /**
  * Reset some basic elements
  */
+ /*@import url(add google fonts url for each font who want to import)*/
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('http://fonts.googleapis.com/css?family=Alegreya');
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -19,7 +23,9 @@ site-title {
 }
 
 body {
-  font: 400 16px/1.5 "Georgia", Helvetica, Arial, sans-serif;
+  font-family: "Alegreya", "Copperplate", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -160,7 +166,7 @@ pre {
   position: relative; }
 
 .site-title {
-  font: 400 16px/1.5 "Avenir", Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 "Barrio", "Avenir", Arial, sans-serif;
   font-size: 24px;
   font-weight: 300;
   line-height: 56px;
@@ -225,7 +231,7 @@ pre {
 .footer-heading {
   font-size: 18px;
   margin-bottom: 15px;
-  font: 400 16px/1.5 "Avenir", Helvetica, Arial, sans-serif; }
+  font: 400 16px/1.5 "Barrio", Helvetica, Arial, sans-serif; }
 
 .contact-list,
 .social-media-list {
