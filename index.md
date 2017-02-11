@@ -4,20 +4,18 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-blah blah blah
 
-### Things to fix -
+### What's this about?
 
-Btw, I do not find the Jekyll documentation particularly useful. It expects too much pre-understanding that I don't have.
+Our ogre of a professor in HIST 698 (Introduction to Digital Humanities) (find him [here](http://fredgibbs.net/)) has asked us to make a personal webpage. I'm sure he'd like this to be suitable for an academic audience, marketing ourselves professionally and so on. In that case, no tenure for me!
 
-I'd like the index page not to have the 'layout: home' because that adds RSS feed I don't want, but hesitate to change.
+This site is based on the Jekyll Minima theme, hosted on GitHub. I like playing around with the typography the most. Notice how large the font size is. That's for people like me whose eyes worsen year after year of too much staring at the computer screen.
 
-How do I change the ordering of links on the nav bar anyway? I have a nav.html in my includes folder but it's empty. Well, I did try and copy from Fred's Github repo, but not successfully. (I did manage to change the footer.html in the includes folder so I know I'm using includes properly).
+At the moment, I'm using the following fonts from [Google Fonts](https://fonts.google.com/):
+- Alegreya for the main text
+- Special Elite for headings, navigation, and footer
+- Inconsolata for the site title
 
-Yay! Figured out how to add posts to assignments tab instead.
+I'm writing in Markdown using the Atom editor. I use a 2012 MacBook Air that I hope will last another year.
 
-Formatting of CV page is lousy. Pandoc converted to Markdown okay, but had a lot of layout formatting that is lost.
-Can you mix and match themes? Eg, I found a resume builder theme, but only need that for one page.
-
-What do I want on my home page anyway?
-Btw, do you know why AKK left Midd?
+I'm a firm believer in the _Oxford Comma_, and I despise [~~"~~unnecessary~~"~~ quotation marks](http://www.unnecessaryquotes.com/).
