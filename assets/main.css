@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6,
 pre, p,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;}
 
 /**
  * Images
@@ -59,7 +59,7 @@ img {
     border-radius: 100px;
     max-width: 200px;
     max-height: 200px;
-    margin-left: 100px;
+    margin-left: 200px;
   }
 
 /**
@@ -108,10 +108,13 @@ blockquote {
   padding-left: 15px;
   font-size: 20px;
   letter-spacing: -1px;
+  margin-bottom: 5px;
   /*font-style: italic;*/
 }
+
   blockquote > :last-child {
     margin-bottom: 0; }
+
 
 /**
  * Code formatting
@@ -317,7 +320,9 @@ pre {
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: -15px; }
 
 .post-title {
   font-size: 26px;

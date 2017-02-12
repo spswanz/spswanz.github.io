@@ -4,7 +4,7 @@ title: 698 Porfolio
 date: 2017-01-17
 categories:
 ---
-# Weekly Reports
+# Check out my weekly reading responses here:
 <ul>
   {% for post in site.posts %}
     <li>
