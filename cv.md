@@ -5,7 +5,9 @@ permalink: /CV
 ---
 
 <div class="cv block" style="margin-top:40px"></div>
+
 ### Over-educated
+
 **University of Michigan School of Information**, Ann Arbor, MI
 > **Master of Science in Information**, May 2018
 >
