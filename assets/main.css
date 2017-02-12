@@ -18,7 +18,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 hr, pre, h1, h2, h3, h4, h5, h6, a {
-  font: 400 16px/1.5 "Special Elite", Helvetica, Arial, sans-serif;
+  font: 400 24px/1.5 "Special Elite", Helvetica, Arial, sans-serif;
   color: #415372;
 }
 site-title {
@@ -182,7 +182,7 @@ pre {
   margin-bottom: 20px;}
 
 .site-title {
-  font: 400 16px/1.5 "Inconsolata", "Avenir", Arial, sans-serif;
+  font: 400 18px/1.5 "Inconsolata", "Avenir", Arial, sans-serif;
   font-size: 24px;
   font-weight: 300;
   line-height: 56px;

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 698 Porfolio
 date: 2017-01-17
 categories:
