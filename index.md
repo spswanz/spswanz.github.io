@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
 
@@ -12,6 +9,7 @@ Our ogre of a professor in HIST 698 (Introduction to Digital Humanities) (find h
 This site is hosted on GitHub, based on the Jekyll Minima theme with a lot of CSS tweaks. I like playing around with the typography the most. Notice how large the font size is. That's for people like me whose eyes worsen year after year from too much staring at the computer screen.
 
 At the moment, I'm using the following fonts from [Google Fonts](https://fonts.google.com/):
+
 - Alegreya for the main text
 - Special Elite for headings, navigation, and footer
 - Inconsolata for the site title (How's *that* for matching form and content?)
