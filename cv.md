@@ -20,7 +20,8 @@ permalink: /CV
 >
 
 **Duke University School of Law**, Durham, NC
-> **J.D. and LL.M**. in Comparative & International Law, 1997
+
+> **J.D. and LL.M.** in Comparative & International Law, 1997
 
 
 **Middlebury College**, Middlebury, VT
@@ -33,6 +34,7 @@ permalink: /CV
 ### Over-credentialed
 
 Post-Graduate Program in Art Crime and Cultural Heritage, Summer 2016
+
 > The Association for Research into Crimes against Art, Amelia, Italy
 
 Cambridge Certificate in English Language Teaching to Adults, April 2016
