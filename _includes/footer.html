@@ -4,6 +4,13 @@
     <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+        </ul>
+          {% endif %}
         <p>Copyright: Sarah P. Swanz 2017</p>
         <!-- <p>{{ site.description | escape }}</p> -->
       </div>
