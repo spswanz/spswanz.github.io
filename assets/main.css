@@ -3,6 +3,7 @@
  */
  /*@import url(add google fonts url for each font who want to import)*/
 /*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+
 @import url('http://fonts.googleapis.com/css?family=Alegreya');
 @import url('http://fonts.googleapis.com/css?family=Special+Elite');
 @import url('http://fonts.googleapis.com/css?family=Inconsolata');
@@ -18,7 +19,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 hr, pre, h1, h2, h3, h4, h5, h6, a {
-  font: 400 22px/1.5 "Special Elite", Helvetica, Arial, sans-serif;
+  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 22px;
   color: #415372;
 }
 
