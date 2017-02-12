@@ -18,8 +18,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 hr, pre, h1, h2, h3, h4, h5, h6, a {
-  font: 400 24px/1.5 "Special Elite", Helvetica, Arial, sans-serif;
+  font: 400 22px/1.5 "Special Elite", Helvetica, Arial, sans-serif;
   color: #415372;
+}
+
+a {
+ font-size: 18px;
 }
 site-title {
   color: #006400 ;
@@ -114,7 +118,6 @@ blockquote {
 
   blockquote > :last-child {
     margin-bottom: 0; }
-
 
 /**
  * Code formatting
@@ -350,6 +353,8 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+
 
 /**
  * Syntax highlighting styles
