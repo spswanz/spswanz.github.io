@@ -9,7 +9,7 @@ layout: page
 
 Our ogre of a professor in HIST 698 (Introduction to Digital Humanities) (find him [here](http://fredgibbs.net/)) has asked us to make a personal webpage. I'm sure he'd like this to be suitable for an academic audience, marketing ourselves professionally and so on. In that case, no tenure for me!
 
-This site is based on the Jekyll Minima theme, hosted on GitHub. I like playing around with the typography the most. Notice how large the font size is. That's for people like me whose eyes worsen year after year from too much staring at the computer screen.
+This site is hosted on GitHub, based on the Jekyll Minima theme with a lot of CSS tweaks. I like playing around with the typography the most. Notice how large the font size is. That's for people like me whose eyes worsen year after year from too much staring at the computer screen.
 
 At the moment, I'm using the following fonts from [Google Fonts](https://fonts.google.com/):
 - Alegreya for the main text

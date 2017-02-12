@@ -4,15 +4,10 @@ title: Curriculum Vitae
 permalink: /CV
 ---
 
-**Actually a resume
 
-> [contact info removed]
->
-
-**Education**
+### Over-educated
 
 **University of Michigan School of Information**, Ann Arbor, MI
-
 > **Master of Science in Information**, May 2018
 >
 > Concentration: Cultural Heritage Protection
@@ -23,7 +18,6 @@ permalink: /CV
 >
 
 **Duke University School of Law**, Durham, NC
-
 > **J.D. and LL.M**. in Comparative & International Law, 1997
 >
 
@@ -31,10 +25,9 @@ permalink: /CV
 
 > **B.A.** in History, 1993
 
-**CERTIFICATIONS**
+### Over-credentialed
 
 Post-Graduate Program in Art Crime and Cultural Heritage, Summer 2016
-
 > The Association for Research into Crimes against Art, Amelia, Italy
 >
 
@@ -52,17 +45,8 @@ Certificate in Front-End Web Development, April 2014
 
 > Betamore Academy, Baltimore, MD
 
-**EMPLOYMENT HISTORY**
 
-**Materiell (formerly CMS Advertising Group)**, Arlington, Va.
-
-> Project Manager and Strategist (part-time), April 2013 – December 2015
-
--   Worked with clients to determine objectives and requirements and to establish scope for client web design and development projects.
-
--   Coordinated between client and web designers and developers, monitored progress and quality, and managed client feedback.
-
--   Provided business and legal advice regarding employment, government contracting, and intellectual property issues.
+### My past life
 
 **Richards Kibbe & Orbe LLP**, Washington, D.C.
 
@@ -94,7 +78,7 @@ Certificate in Front-End Web Development, April 2014
 
 > Associate: Business Crimes & Investigations, August 1998 – June 1999
 
-**The Honorable Frederic N. Smalkin**, U.S. District Court for the District of Maryland,
+**The Honorable Frederic N. Smalkin**, U.S. District Court for the District of Maryland
 
 > Law Clerk, August 1997 – August 1998, Baltimore, MD
 >
@@ -103,6 +87,8 @@ Certificate in Front-End Web Development, April 2014
 
 > Business Systems Analyst, July 1993 – June 1994
 
+
+### Other interesting things about me
 **Volunteer activities**
 
 -   UM English Language Institute, Conversation Circle (Fall 2016 – present)
