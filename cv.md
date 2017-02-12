@@ -5,7 +5,7 @@ permalink: /CV
 ---
 
 
-### Over-educated
+#### Over-educated
 
 **University of Michigan School of Information**, Ann Arbor, MI
 > **Master of Science in Information**, May 2018
@@ -25,7 +25,8 @@ permalink: /CV
 
 > **B.A.** in History, 1993
 
-### Over-credentialed
+
+#### Over-credentialed
 
 Post-Graduate Program in Art Crime and Cultural Heritage, Summer 2016
 > The Association for Research into Crimes against Art, Amelia, Italy
@@ -46,7 +47,8 @@ Certificate in Front-End Web Development, April 2014
 > Betamore Academy, Baltimore, MD
 
 
-### My past life
+
+#### My past life
 
 **Richards Kibbe & Orbe LLP**, Washington, D.C.
 
@@ -88,7 +90,8 @@ Certificate in Front-End Web Development, April 2014
 > Business Systems Analyst, July 1993 – June 1994
 
 
-### Other interesting things about me
+
+#### Other interesting things about me
 **Volunteer activities**
 
 -   UM English Language Institute, Conversation Circle (Fall 2016 – present)

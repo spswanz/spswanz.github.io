@@ -40,9 +40,9 @@ body {
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
- deleted p and blockquote*/
+ deleted blockquote*/
 h1, h2, h3, h4, h5, h6,
-pre,
+pre, p,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
