@@ -9,6 +9,7 @@ permalink: /CV
 ### Over-educated
 
 **University of Michigan School of Information**, Ann Arbor, MI
+
 > **Master of Science in Information**, May 2018
 >
 > Concentration: Cultural Heritage Protection
@@ -20,7 +21,7 @@ permalink: /CV
 
 **Duke University School of Law**, Durham, NC
 > **J.D. and LL.M**. in Comparative & International Law, 1997
->
+
 
 **Middlebury College**, Middlebury, VT
 
@@ -33,22 +34,19 @@ permalink: /CV
 
 Post-Graduate Program in Art Crime and Cultural Heritage, Summer 2016
 > The Association for Research into Crimes against Art, Amelia, Italy
->
 
 Cambridge Certificate in English Language Teaching to Adults, April 2016
 
 > International House, Montañita, Ecuador
->
 
 Certificate in International Law, Cultural Heritage and the Arts, June 2015
 
 > Tulane University School of Law – Siena University, Siena, Italy
->
+
 
 Certificate in Front-End Web Development, April 2014
 
 > Betamore Academy, Baltimore, MD
-
 
 
 <div class="cv block" style="margin-top:40px"></div>
@@ -88,7 +86,7 @@ Certificate in Front-End Web Development, April 2014
 **The Honorable Frederic N. Smalkin**, U.S. District Court for the District of Maryland
 
 > Law Clerk, August 1997 – August 1998, Baltimore, MD
->
+
 
 **American Management Systems**, Arlington, VA
 
