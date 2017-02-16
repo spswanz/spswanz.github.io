@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img class='bckgrd-img' src="/images/beaker.jpg" alt="Muppet Beaker" style="float: right">
+
 ### What's this about?
 
 Our ogre of a professor in HIST 698 (Introduction to Digital Humanities) (find him [here](http://fredgibbs.net/)) has asked us to make a personal webpage. I'm sure he'd like this to be suitable for an academic audience, marketing ourselves professionally and so on. In that case, no tenure for me!
