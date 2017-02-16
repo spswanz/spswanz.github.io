@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class='bckgrd-img' src="/images/beaker.jpg" alt="Muppet Beaker" style="float: right">
+<img class='bckgrd-img' src="/images/Beaker.jpg" alt="Muppet Beaker" style="float: right">
 
 
 ### What's this about?
