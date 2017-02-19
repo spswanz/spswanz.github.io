@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class='bckgrd-img' src="/images/LewisChessQueen.jpg" alt="Lewis Chess Queen">
+<img class='oval-img' src="/images/LewisChessQueen.jpg" alt="Lewis Chess Queen">
 
 
 This is the Queen from the [Lewis Chessmen](https://www.britishmuseum.org/about_us/news_and_press/statements/the_lewis_chessmen.aspx).

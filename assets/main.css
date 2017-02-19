@@ -18,7 +18,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-hr, pre, h1, h2, h3, h4, h5, h6, a {
+hr, pre, h1, h2, h3, h4, h5, h6, a, figcaption {
   font-family: "Special Elite", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 22px;
@@ -29,15 +29,16 @@ a {
  font-size: 18px;
 }
 site-title {
-  color: #006400 ;
+  color: #558D57;
 }
 
 body {
   font-family: "Alegreya", "Georgia", Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 22px;
   color: #111;
-  background-color: #fdfdfd;
+  /*background-color: #fdfdfd;*/
+  background: #f3e4c8 url(../images/grunge.png);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -61,12 +62,21 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
-.bckgrd-img {
+.special {
+  float: right;
+  text-align: center;
+  margin-left: 200px;
+}
+
+.special figcaption {
+  margin-top: 5px;
+}
+
+.oval-img {
     border: 5px solid #f3e4c8;
     border-radius: 100px;
     max-width: 200px;
     max-height: 200px;
-    margin-left: 200px;
   }
 
 /**
