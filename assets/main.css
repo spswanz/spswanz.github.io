@@ -2,12 +2,12 @@
  * Reset some basic elements
  */
  /*@import url(add google fonts url for each font who want to import)*/
-/*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
 
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
-/*@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');*/
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');*/
 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -18,14 +18,17 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-hr, pre, h1, h2, h3, h4, h5, h6, a, figcaption {
-  font-family: "Special Elite", Helvetica, Arial, sans-serif;
+hr, pre, h1, h2, h3, h4, h5, h6, figcaption {
+  /*font-family: "Special Elite", Helvetica, Arial, sans-serif;*/
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 22px;
   color: #415372;
 }
 
 a {
+ font-family: "Montserrat", Helvetica, Arial, sans-serif;
+ font-weight: 400;
  font-size: 18px;
 }
 site-title {
@@ -35,7 +38,8 @@ site-title {
 body {
   font-family: "Alegreya", "Georgia", Arial, sans-serif;
   font-weight: 500;
-  font-size: 22px;
+  font-size: 20px;
+  line-height: 150%;
   color: #111;
   /*background-color: #fdfdfd;*/
   background: #f3e4c8 url(../images/grunge.png);
@@ -198,13 +202,14 @@ pre {
   margin-bottom: 20px;}
 
 .site-title {
-  font: 400 18px/1.5 "Inconsolata", "Avenir", Arial, sans-serif;
-  font-size: 24px;
-  font-weight: 300;
+  font: 400 18px/1.5 "Montserrat", "Avenir", Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 800;
   line-height: 56px;
   /*letter-spacing: -1px;*/
   margin-bottom: 0;
-  margin-left: -100px;
+  float: left;
+  /*margin-left: -100px;*/
 }
   /*float: left; }
   .site-title, .site-title:visited {
