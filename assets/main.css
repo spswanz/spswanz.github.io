@@ -121,7 +121,7 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #111;
+    color: #558D57;
     text-decoration: underline; }
 
 /**
@@ -227,7 +227,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #415372;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -267,7 +267,8 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  /*border-top: 2px solid #e8e8e8;*/
+  border-top: 1px solid gray;
   padding: 5px 0;
   font: 400 16px/1.5 "Special Elite", Helvetica, Arial, sans-serif;}
 
