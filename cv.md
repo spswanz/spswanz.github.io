@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /CV
 ---
 
+<!-- Download a pdf version [here](/images/Resume.pdf). -->
+
 <div class="cv block" style="margin-top:40px"></div>
 
 ### Over-educated

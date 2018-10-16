@@ -1,0 +1,263 @@
+{
+  "name": "flare",
+  "children": [
+  {
+    "name": "Industrials",
+    "count": 5,
+    "children": [
+      {
+        "name": "3M",
+        "Sector": "Industrials",
+        "WeightMC": 2.06,
+        "Price": " $234.74 ",
+        "WeightDJ": 6.90
+      },
+      {
+        "name": "Boeing",
+        "Sector": "Industrials",
+        "WeightMC": 2.36,
+        "Price": " $256.46 ",
+        "WeightDJ": 7.54
+      },
+      {
+        "name": "Caterpillar",
+        "Sector": "Industrials",
+        "WeightMC": 1.23,
+        "Price": " $137.81 ",
+        "WeightDJ": 4.05
+      },
+      {
+        "name": "GE",
+        "Sector": "Industrials",
+        "WeightMC": 2.70,
+        "Price": " $20.79 ",
+        "WeightDJ": 0.61
+      },
+      {
+        "name": "United Technologies",
+        "Sector": "Industrials",
+        "WeightMC": 1.43,
+        "Price": " $119.07 ",
+        "WeightDJ": 3.50
+      }
+    ]
+  },
+  {
+    "name": "Financial",
+    "count": 4,
+    "children": [
+      {
+        "name": "American Express",
+        "Sector": "Financial",
+        "WeightMC": 1.23,
+        "Price": " $95.79 ",
+        "WeightDJ": 2.81
+      },
+      {
+        "name": "Goldman Sachs",
+        "Sector": "Financial",
+        "WeightMC": 1.38,
+        "Price": " $241.71 ",
+        "WeightDJ": 7.10
+      },
+      {
+        "name": "JPMorgan Chase",
+        "Sector": "Financial",
+        "WeightMC": 5.14,
+        "Price": " $101.77 ",
+        "WeightDJ": 2.99
+      },
+      {
+        "name": "Travelers",
+        "Sector": "Financial",
+        "WeightMC": 0.56,
+        "Price": " $131.06 ",
+        "WeightDJ": 3.85
+      }
+    ]
+  },
+  {
+    "name": "Technology",
+    "count": 6,
+    "children": [
+      {
+        "name": "Apple",
+        "Sector": "Technology",
+        "WeightMC": 13.71,
+        "Price": " $163.05 ",
+        "WeightDJ": 4.79
+      },
+      {
+        "name": "Cisco",
+        "Sector": "Technology",
+        "WeightMC": 2.58,
+        "Price": " $34.43 ",
+        "WeightDJ": 1.01
+      },
+      {
+        "name": "IBM",
+        "Sector": "Technology",
+        "WeightMC": 2.10,
+        "Price": " $153.68 ",
+        "WeightDJ": 4.52
+      },
+      {
+        "name": "Intel",
+        "Sector": "Technology",
+        "WeightMC": 3.25,
+        "Price": " $44.40 ",
+        "WeightDJ": 1.30
+      },
+      {
+        "name": "Microsoft",
+        "Sector": "Technology",
+        "WeightMC": 9.82,
+        "Price": " $83.81 ",
+        "WeightDJ": 2.46
+      },
+      {
+        "name": "Visa",
+        "Sector": "Technology",
+        "WeightMC": 3.11,
+        "Price": " $109.71 ",
+        "WeightDJ": 3.22
+      }
+    ]
+  },
+  {
+    "name": "Oil&Gas",
+    "count": 2,
+    "children": [
+      {
+        "name": "Chevron",
+        "Sector": "Oil&Gas",
+        "WeightMC": 3.38,
+        "Price": " $113.54 ",
+        "WeightDJ": 3.34
+      },
+      {
+        "name": "Exxon Mobil",
+        "Sector": "Oil&Gas",
+        "WeightMC": 5.34,
+        "Price": " $83.71 ",
+        "WeightDJ": 2.46
+      }
+    ]
+  },
+  {
+    "name": "Consumer",
+    "count": 7,
+    "children": [
+      {
+        "name": "Coca-Cola",
+        "Sector": "Consumer",
+        "WeightMC": 3.01,
+        "Price": " $46.07 ",
+        "WeightDJ": 1.35
+      },
+      {
+        "name": "Home Depot",
+        "Sector": "Consumer",
+        "WeightMC": 2.94,
+        "Price": " $167.34 ",
+        "WeightDJ": 4.92
+      },
+      {
+        "name": "McDonalds",
+        "Sector": "Consumer",
+        "WeightMC": 2.01,
+        "Price": " $165.39 ",
+        "WeightDJ": 4.86
+      },
+      {
+        "name": "Nike",
+        "Sector": "Consumer",
+        "WeightMC": 1.11,
+        "Price": " $55.96 ",
+        "WeightDJ": 1.64
+      },
+      {
+        "name": "Procter & Gamble",
+        "Sector": "Consumer",
+        "WeightMC": 3.40,
+        "Price": " $87.04 ",
+        "WeightDJ": 2.56
+      },
+      {
+        "name": "Wal-Mart",
+        "Sector": "Consumer",
+        "WeightMC": 4.13,
+        "Price": " $88.17 ",
+        "WeightDJ": 2.59
+      },
+      {
+        "name": "Walt Disney",
+        "Sector": "Consumer",
+        "WeightMC": 2.46,
+        "Price": " $104.78 ",
+        "WeightDJ": 2.89
+      }
+    ]
+  },
+  {
+    "name": "Materials",
+    "count": 1,
+    "children": [
+      {
+        "name": "Dow DuPont",
+        "Sector": "Materials",
+        "WeightMC": 2.49,
+        "Price": " $83.93 ",
+        "WeightDJ": 2.13
+      }
+    ]
+  },
+  {
+    "name": "Healthcare",
+    "count": 4,
+    "children": [
+      {
+        "name": "Johnson & Johnson",
+        "Sector": "Healthcare",
+        "WeightMC": 5.70,
+        "Price": " $141.78 ",
+        "WeightDJ": 4.17
+      },
+      {
+        "name": "Merck",
+        "Sector": "Healthcare",
+        "WeightMC": 2.30,
+        "Price": " $58.24 ",
+        "WeightDJ": 1.71
+      },
+      {
+        "name": "Pfizer",
+        "Sector": "Healthcare",
+        "WeightMC": 3.18,
+        "Price": " $35.60 ",
+        "WeightDJ": 1.05
+      },
+      {
+        "name": "UnitedHealth",
+        "Sector": "Healthcare",
+        "WeightMC": 3.11,
+        "Price": " $212.60 ",
+        "WeightDJ": 6.25
+      }
+    ]
+  },
+  {
+    "name": "Telecom",
+    "count": 1,
+    "children": [
+      {
+        "name": "Verizon",
+        "Sector": "Telecom",
+        "WeightMC": 2.78,
+        "Price": " $48.87 ",
+        "WeightDJ": 1.44
+      }
+    ]
+  }
+]
+}
