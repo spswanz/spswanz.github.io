@@ -271,6 +271,8 @@ pre {
   border-top: 1px solid gray;
   padding: 5px 0;
   font: 400 16px/1.5 "Special Elite", Helvetica, Arial, sans-serif;}
+  /* /padding: 5px 0; */
+  font: 12px "Special Elite", Helvetica, Arial, sans-serif;}
 
 .footer-heading {
   font-size: 18px;
