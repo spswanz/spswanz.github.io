@@ -17,4 +17,4 @@ I've since updated the site to house some other projects I've done:
 
 - [Data visualization of the Dow Jones Industrial Average](/DJDataViz/index.html)
 - [Safety and conveniences scores for Airbnb neighborhoods](/airbnbNeighborhood/index.html)
-- [Cheat for NYT's Spelling Bee puzzles](https://spswanz.github.io/spellingbee.html)
+- [Cheat for NYT's Spelling Bee puzzles](/spellingbee.html)
