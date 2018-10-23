@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spelling Bee Cheat
-permalink: /SpellingBee
+permalink: /SpellingBee.html
 ---
 
 The _New York Times_ added a daily puzzle called ["Spelling Bee"](https://www.nytimes.com/puzzles/spelling-bee). The puzzle gives you seven letters in a hive (one in the center of the hive, surrounded by six other letters). You must make as many words as you can from those seven letters, as long as you comply with these rules:
