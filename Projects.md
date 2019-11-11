@@ -15,3 +15,6 @@ permalink: /Projects
 - Cheat for NYT's Spelling Bee puzzles
     - [Project Site](/spellingbee.html)
     - [_Project notes and self-critique_](https://github.com/spswanz/NYT-Spelling-Bee-Cheat)
+
+- Testing Twine game publication
+  - -[Sample Twine Game](/TwineTest/TestStory.html)
