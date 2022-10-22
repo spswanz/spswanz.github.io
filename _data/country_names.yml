@@ -17,7 +17,7 @@
 -
   index: 'map_4'
   country_name: 'ANDORRA'
-  visited:
+  visited: true
 
 -
   index: 'map_5'
@@ -182,7 +182,7 @@
 -
   index: 'map_37'
   country_name: 'COSTA RICA'
-  visited: false
+  visited: true
 
 -
   index: 'map_38'
@@ -617,7 +617,7 @@
 -
   index: 'map_124'
   country_name: 'PANAMA'
-  visited: false
+  visited: true
 
 -
   index: 'map_125'
