@@ -18,3 +18,13 @@ updates:
     # Check for updates once a week
     schedule:
       interval: "weekly"
+
+# Enable version updates for bundler
+  - package-ecosystem: "bundler"
+    directory: "/"
+    # Check for updates once a week
+    allow:
+      # Allow both direct and indirect updates for all packages
+      - dependency-type: "all"
+    schedule:
+      interval: "weekly"
