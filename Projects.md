@@ -18,3 +18,6 @@ permalink: /Projects
 
 - Testing Twine game publication
   - -[Sample Twine Game](/TwineTest/TestStory.html)
+
+- Test Wax Site
+    - [Project Site](/JadeTest/index.html)
